@@ -1,0 +1,42 @@
+[
+    {
+        "projectName": "deno",
+        "projectLink": "https://www.github.com/denoland/deno"
+    },
+    {
+        "projectName": "rust",
+        "projectLink": "https://www.github.com/rust-lang/rust"
+    },
+    {
+        "projectName": "alacritty",
+        "projectLink": "https://www.github.com/alacritty/alacritty"
+    },
+    {
+        "projectName": "bat",
+        "projectLink": "https://www.github.com/sharkdp/bat"
+    },
+    {
+        "projectName": "awesome-rust",
+        "projectLink": "https://www.github.com/rust-unofficial/awesome-rust"
+    },
+    {
+        "projectName": "servo",
+        "projectLink": "https://www.github.com/servo/servo"
+    },
+    {
+        "projectName": "fd",
+        "projectLink": "https://www.github.com/sharkdp/fd"
+    },
+    {
+        "projectName": "starship",
+        "projectLink": "https://www.github.com/starship/starship"
+    },
+    {
+        "projectName": "rustlings",
+        "projectLink": "https://www.github.com/rust-lang/rustlings"
+    },
+    {
+        "projectName": "flatbuffers",
+        "projectLink": "https://www.github.com/google/flatbuffers"
+    }
+]

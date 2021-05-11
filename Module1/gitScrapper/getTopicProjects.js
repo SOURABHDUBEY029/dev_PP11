@@ -23,6 +23,7 @@ function processData(topicName , data){
         projectsFile.push({projectName , projectLink});
     }
     fs.writeFileSync(`${topicFolderPath}/projects.json` , JSON.stringify(projectsFile));
+
 }
 
 

@@ -1,0 +1,42 @@
+[
+    {
+        "projectName": "bootstrap",
+        "projectLink": "https://www.github.com/twbs/bootstrap"
+    },
+    {
+        "projectName": "electron",
+        "projectLink": "https://www.github.com/electron/electron"
+    },
+    {
+        "projectName": "animate.css",
+        "projectLink": "https://www.github.com/animate-css/animate.css"
+    },
+    {
+        "projectName": "Font-Awesome",
+        "projectLink": "https://www.github.com/FortAwesome/Font-Awesome"
+    },
+    {
+        "projectName": "Front-End-Checklist",
+        "projectLink": "https://www.github.com/thedaviddias/Front-End-Checklist"
+    },
+    {
+        "projectName": "html5-boilerplate",
+        "projectLink": "https://www.github.com/h5bp/html5-boilerplate"
+    },
+    {
+        "projectName": "normalize.css",
+        "projectLink": "https://www.github.com/necolas/normalize.css"
+    },
+    {
+        "projectName": "bulma",
+        "projectLink": "https://www.github.com/jgthms/bulma"
+    },
+    {
+        "projectName": "tailwindcss",
+        "projectLink": "https://www.github.com/tailwindlabs/tailwindcss"
+    },
+    {
+        "projectName": "prettier",
+        "projectLink": "https://www.github.com/prettier/prettier"
+    }
+]
